@@ -20,7 +20,7 @@ As shown in the following figures:
 
 ![2](https://user-images.githubusercontent.com/128687099/230165414-c6c22de4-bd82-4d66-8c2f-ee55c3ea7b86.PNG)
 
- We recommend using a high-performance GPU that operates in TCC mode and making sure that the computer has enough memory.When expected, the app will solve the Ins-III case and output a graphical timetable with 104 trains. When the app is running, we will be able to observe the total reward received by the agent through the window of the app. When the reward exceeds 45,000, we believe that the app has found a conflict-free timetable. 
+ We recommend using a high-performance GPU that operates in TCC mode and making sure that the computer has enough memory.When expected, the app will solve the Ins-III case and output a graphical timetable with 104 trains. When the program is running, we will be able to observe the total reward received by the agent through the window. When the reward exceeds 45,000, we believe that the program has found a conflict-free timetable. 
  
  Typically, the process will not take more than several hours.   
 
