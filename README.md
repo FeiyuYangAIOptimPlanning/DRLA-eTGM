@@ -25,6 +25,3 @@ As shown in the following figures:
  Typically, the process will not take more than several hours.   
 
  It is worth mentioning that after authorization, we will release C, Python and C#-based eTGM emulators and PyTorch-based DRLA-eTGM learning algorithm implementations, which will accelerate our algorithms by orders of magnitude time advantage.  
-  
-For more detailed info:
-[![View Railway Scheduling With a Gridworld Model and DRL on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/126710-railway-scheduling-with-a-gridworld-model-and-drl)
